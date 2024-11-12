@@ -1,5 +1,7 @@
 # Hola, mi nombre es Jhon Bedoya :cowboy_hat_face::computer:
 
+<img src="https://github.com/JotaBCode/JotaBCode/blob/main/images/Portada.png?raw=true" width="100%" height="100%">
+
 Soy estudiante de la carrera de **Ingeniería en Tecnologías de la Información** desde 2021. 
 
 > [!NOTE]
