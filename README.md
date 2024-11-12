@@ -2,7 +2,7 @@
 
 <img src="https://github.com/JotaBCode/JotaBCode/blob/main/images/Portada.png?raw=true" width="100%" height="100%">
 
-Soy estudiante de la carrera de **Ingeniería en Tecnologías de la Información** desde 2021. 
+Soy estudiante de la carrera de **Ingeniería en Tecnologías de la Información** en la Universiddad de las Fuerzas Armadas ESPE desde 2021. 
 
 > [!NOTE]
 > ##### *Actualmente me encuentro cursando el 7mo semestre.*
@@ -35,13 +35,17 @@ A lo largo de mis estudios universitarios he aprendido diferentes tecnologías, 
 
 A partir de noviembre del 2023 empecé con un nuevo reto en mi carrera, buscar pasantías y adquirir experiencia laboral. El objetivo de esta nueva aventura es aplicar los conocimientos adquiridos y poder aportar a las empresas de manera eficiente; con el fin de, conseguir mi primer empleo para crecer en el ámbito profesional. Mi Historial de Trabajo es el siguiente:
 
-> 💳 [Banco Solidario S.A.](https://www.banco-solidario.com/) Pasante en Gestión de Proyectos Tecnológicos || 4 meses
+> 💳 [Banco Solidario S.A.](https://www.banco-solidario.com/) Pasante en Gestión de Proyectos Tecnológicos || 6 meses
 >
->             descripción aquí             
->      
-> 🚀 [Banred S.A.](https://www.banred.fin.ec/) Pasante en Certificación de la Calidad (QA) || 6 meses
+>      Mi enfoque estuvo en la Gestión de Proyectos Tecnológicos, donde utilicé herramientas como: Excel, Word, Project y
+>      SQL Server.
+>       
+> 🚀 [Banred S.A.](https://www.banred.fin.ec/) Pasante en Certificación de la Calidad (QA) || 4 meses
 >
->             descripción aquí              
-> 
+>      Me encargaba de Habilitación de Ambientes de Prueba y Soportes Especializados para diferentes Instituciones Financieras,
+>      brindando servicios de canales como: Pago Directo, Cajeros Automáticos, CNB, Corresponsalías, Remesas, etc.
+>      Herramientas: SQL Server, RedHat, SoapUI, Spring Boot, API de Postman, Core Bancario para el proceso de Conciliación.                    
 
 # Mis redes sociales:
+
+
