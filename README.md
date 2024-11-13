@@ -48,4 +48,32 @@ A partir de noviembre del 2023 empecé con un nuevo reto en mi carrera, buscar p
 
 # Mis redes sociales:
 
+<div>
+  <a href="https://www.facebook.com/jhonantony.bedoyadavalos.35" target="_blank">
+      <img src="https://github.com/JotaBCode/JotaBCode/blob/main/images/FACEBOOK_Logo.png?raw=true" alt="Facebook" width="220px" height="auto">
+  </a>
+  
+  <a href="https://www.instagram.com/jota.b9" target="_blank">
+      <img src="https://github.com/JotaBCode/JotaBCode/blob/main/images/INSTAGRAM_Logo.png?raw=true" width="176px" height="auto">
+  </a>
+  
+  <a href="https://open.spotify.com/user/31aavde7vv4xpfd6mvo6oll3dk4y?si=c706052cb7aa4330" target="_blank">
+      <img src="https://github.com/JotaBCode/JotaBCode/blob/main/images/SPOTIFY_Logo.png?raw=true" width="190px" height="auto">
+  </a>
+</div>
+
+<p>
+
+<div>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="www.linkedin.com/in/jhon-bedoya-455789309" target="_blank">
+        <img src="https://github.com/JotaBCode/JotaBCode/blob/main/images/LINKEDIN_Logo.png?raw=true" width="220px" height="auto">
+    </a>
+
+  <a href="https://github.com/JotaBCode" target="_blank">
+        <img src="https://github.com/JotaBCode/JotaBCode/blob/main/images/GITHUB_Logo.png?raw=true" width="190px" height="auto">
+    </a>
+
+  <img src="https://github.com/JotaBCode/JotaBCode/blob/main/images/OUTLOOK_Logo.png?raw=true" width="310px" height="auto">
+</div>
 
